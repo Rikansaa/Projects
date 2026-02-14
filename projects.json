@@ -1,0 +1,274 @@
+{
+  "projects": [
+    {
+      "name": "Portofolio",
+      "description": "created by rikansaa",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Portofolio",
+      "url": "https://github.com/Rikansaa/Portofolio",
+      "language": "EJS",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Request",
+      "description": "",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Request",
+      "url": "https://github.com/Rikansaa/Request",
+      "language": "EJS",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "valenska",
+      "description": "Website",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=valenska",
+      "url": "https://github.com/Rikansaa/valenska",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Project-Bot-Whatsapp.",
+      "description": "Sigma",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Project-Bot-Whatsapp.",
+      "url": "https://github.com/Rikansaa/Project-Bot-Whatsapp.",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Base-Bott-Whatsapp",
+      "description": "Base Bot Whatsapp Simple",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Base-Bott-Whatsapp",
+      "url": "https://github.com/Rikansaa/Base-Bott-Whatsapp",
+      "language": "JavaScript",
+      "stars": 3,
+      "forks": 0
+    },
+    {
+      "name": "theme",
+      "description": "",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=theme",
+      "url": "https://github.com/Rikansaa/theme",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Scraper",
+      "description": "Created By Rizki",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Scraper",
+      "url": "https://github.com/Rikansaa/Scraper",
+      "language": "JavaScript",
+      "stars": 4,
+      "forks": 0
+    },
+    {
+      "name": "rizzkyofc",
+      "description": "Config files for my GitHub profile.",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=rizzkyofc",
+      "url": "https://github.com/Rikansaa/rizzkyofc",
+      "language": "",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "name": "RestApi-Lgin",
+      "description": "Created By Rizki",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=RestApi-Lgin",
+      "url": "https://github.com/Rikansaa/RestApi-Lgin",
+      "language": "CSS",
+      "stars": 1,
+      "forks": 1
+    },
+    {
+      "name": "game-Mirip-Blockblast",
+      "description": "Rizki",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=game-Mirip-Blockblast",
+      "url": "https://github.com/Rikansaa/game-Mirip-Blockblast",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "SourceCodeLogin",
+      "description": "Created By Rizky",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=SourceCodeLogin",
+      "url": "https://github.com/Rikansaa/SourceCodeLogin",
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "vite-react",
+      "description": "",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=vite-react",
+      "url": "https://github.com/Rikansaa/vite-react",
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Login",
+      "description": "Created RizzCode",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Login",
+      "url": "https://github.com/Rikansaa/Login",
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Website-Jualan",
+      "description": "Created RizzCode",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Website-Jualan",
+      "url": "https://github.com/Rikansaa/Website-Jualan",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0
+    },
+    {
+      "name": "Kalkulator",
+      "description": "Kalkulator RizzCode",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Kalkulator",
+      "url": "https://github.com/Rikansaa/Kalkulator",
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Cek-Kodam",
+      "description": "Created By Rizki",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Cek-Kodam",
+      "url": "https://github.com/Rikansaa/Cek-Kodam",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Jam-Analog-Publikation",
+      "description": "Created RizzCode",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Jam-Analog-Publikation",
+      "url": "https://github.com/Rikansaa/Jam-Analog-Publikation",
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Website-CekUsia",
+      "description": "Buatan RizzCode",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Website-CekUsia",
+      "url": "https://github.com/Rikansaa/Website-CekUsia",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "rdpgratis",
+      "description": "",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=rdpgratis",
+      "url": "https://github.com/Rikansaa/rdpgratis",
+      "language": "",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "neoxr-bot",
+      "description": "Baileys WhatsApp Bot",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=neoxr-bot",
+      "url": "https://github.com/Rikansaa/neoxr-bot",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "autoinstallpanel",
+      "description": "",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=autoinstallpanel",
+      "url": "https://github.com/Rikansaa/autoinstallpanel",
+      "language": "Shell",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Scriptrdp",
+      "description": "",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Scriptrdp",
+      "url": "https://github.com/Rikansaa/Scriptrdp",
+      "language": "",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Cmd-Install-Thema-Panel-By-Ikyy",
+      "description": "",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Cmd-Install-Thema-Panel-By-Ikyy",
+      "url": "https://github.com/Rikansaa/Cmd-Install-Thema-Panel-By-Ikyy",
+      "language": "",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "my-rest-api",
+      "description": "Rest api using NodeJS + MongoDB, and User Authentication (login & register)",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=my-rest-api",
+      "url": "https://github.com/Rikansaa/my-rest-api",
+      "language": "CSS",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "RTXZY-MD",
+      "description": "WhatsApp Bot Multi Device Latest Version. Jangan lupa tap bintang nya!🌟",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=RTXZY-MD",
+      "url": "https://github.com/Rikansaa/RTXZY-MD",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Hinata-Md",
+      "description": "Jangan lupa follow Instagram gua ya cuy",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Hinata-Md",
+      "url": "https://github.com/Rikansaa/Hinata-Md",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "Ikratos-MD-v1",
+      "description": "Simple lightweight Multi-Device Bot.✨🌿",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=Ikratos-MD-v1",
+      "url": "https://github.com/Rikansaa/Ikratos-MD-v1",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "dylux-fg",
+      "description": "WhatsApp Bot Multi Device",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=dylux-fg",
+      "url": "https://github.com/Rikansaa/dylux-fg",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "heroku-buildpack-ffmpeg-latest",
+      "description": "A Heroku buildpack for ffmpeg that always downloads the latest static build",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=heroku-buildpack-ffmpeg-latest",
+      "url": "https://github.com/Rikansaa/heroku-buildpack-ffmpeg-latest",
+      "language": "Shell",
+      "stars": 0,
+      "forks": 0
+    },
+    {
+      "name": "RizzCde-Api",
+      "description": "",
+      "image": "https://placehold.co/800x600/3b82f6/ffffff?text=RizzCde-Api",
+      "url": "https://github.com/Rikansaa/RizzCde-Api",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0
+    }
+  ]
+}
